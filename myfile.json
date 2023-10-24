@@ -1,11 +1,11 @@
-  [{
-    "FIELD1": 98,
+  [ {
+    "FIELD1": 49,
     "courseType": "v2.ondemand",
-    "description": "Welcome to Logistic Regression in R for Public Health Why logistic regression for public health rather than just logistic regression? Well there are some particular considerations for every data set and public health data sets have particular features that need special attention. In a word they are messy. Like the others in the series this is a hands on course giving you plenty of practice with R on real-life messy data with predicting who has diabetes from a set of patient characteristics as the worked example for this course. Additionally the interpretation of the outputs from the regression model can differ depending on the perspective that you take, and public health doesnot just take the perspective of an individual patient but must also consider the population angle. That said much of what is covered in this course is true for logistic regression when applied to any data set so you will be able to apply the principles of this course to logistic regression more broadly too. By the end of this course you will be able to explain when it is valid to use logistic regression and define odds and odds ratios and run simple and multiple logistic regression analyses in R and interpret the output ",
-    "id": "HIWhL1UPEeiYKRJKvk-prg",
-    "slug": "logistic-regression-r-public-health",
-    "instructorIds": "['31616650']",
+    "description": "How can we create nano-structures that are 10,000 times smaller than the diameter of a human hair? How can we “see” at the nano-scale?   Through instruction and lab demonstrations in this course you will obtain a rich understanding of the capabilities of nanotechnology tools and how to use this equipment for nano-scale fabrication and characterization.  The nanoscale is the next frontier of the Maker culture where designs become reality.  To become a Nanotechnology Maker pioneer we will introduce you to the practical knowledge skills and tools that can turn your nanotechnology ideas into physical form and that enable you to image objects at the nano-scale. \n\nThis course has been developed by faculty and staff experts in nano-fabrication electron beam microscopy and nano-characterization through the Research Triangle Nanotechnology Network (RTNN).  The RTNN offers training and use of the tools demonstrated in this course to schools  and industry through the United States National Nanotechnology Coordinated Infrastructure program.  The tools demonstrated in this course are available to the public through the RTNN.",
+    "id": "P71s724mEeaWZAqzz79ZVw",
+    "slug": "nanotechnology",
+    "instructorIds": "['1167229', '7320131', '22530482', '21935394']",
     "specializations": "[]",
-    "partnerIds": "['434']",
-    "name": "Logistic Regression in R for Public Health"
+    "partnerIds": "['7', '441', '77']",
+    "name": "Nanotechnology: A Maker’s Course"
   }]
