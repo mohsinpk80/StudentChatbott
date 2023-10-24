@@ -1,11 +1,11 @@
   [ {
-    "FIELD1": 49,
+    "FIELD1": 14,
     "courseType": "v2.ondemand",
-    "description": "How can we create nano-structures that are 10,000 times smaller than the diameter of a human hair? How can we “see” at the nano-scale?   Through instruction and lab demonstrations in this course you will obtain a rich understanding of the capabilities of nanotechnology tools and how to use this equipment for nano-scale fabrication and characterization.  The nanoscale is the next frontier of the Maker culture where designs become reality.  To become a Nanotechnology Maker pioneer we will introduce you to the practical knowledge skills and tools that can turn your nanotechnology ideas into physical form and that enable you to image objects at the nano-scale. \n\nThis course has been developed by faculty and staff experts in nano-fabrication electron beam microscopy and nano-characterization through the Research Triangle Nanotechnology Network (RTNN).  The RTNN offers training and use of the tools demonstrated in this course to schools  and industry through the United States National Nanotechnology Coordinated Infrastructure program.  The tools demonstrated in this course are available to the public through the RTNN.",
-    "id": "P71s724mEeaWZAqzz79ZVw",
-    "slug": "nanotechnology",
-    "instructorIds": "['1167229', '7320131', '22530482', '21935394']",
+    "description": "The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is today.\n\nLIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",
+    "id": "r0GnHOZaEees-Q6jQMxlrg",
+    "slug": "what-is-datascience",
+    "instructorIds": "['28512151', '28511560']",
     "specializations": "[]",
-    "partnerIds": "['7', '441', '77']",
-    "name": "Nanotechnology: A Maker’s Course"
+    "partnerIds": "['348']",
+    "name": "What is Data Science? "
   }]
